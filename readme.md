@@ -1,2 +1,20 @@
-[![](https://img.shields.io/badge/Made%20With-Github%20Spray-lightgrey.svg?style=for-the-badge&logo=github)](https://github.com/Annihil/github-spray)  
-[![](https://i.imgur.com/2DrTn0Z.gif)](https://github.com/Annihil/github-spray)
+# SMOOTH SHADES
+
+|[DOCUMENTATION](https://reactjs.org/docs/getting-started.html "React's Docs")       |
+| ------------- |
+
+> - An amalgam of websites [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers). 
+
+  * Includes CRA to kickstart Redux app
+  * Pages connected via react-router
+  * Follows industry best practices and recommended patterns
+
+
+
+
+
+
+![image](https://github.com/varunswarup0/smooth-shades/blob/master/smoothShades1.png)
+![image](https://github.com/varunswarup0/smooth-shades/blob/master/smoothShades2.png)
+![image](https://github.com/varunswarup0/smooth-shades/blob/master/smoothShades3.png)
+![image](https://github.com/varunswarup0/smooth-shades/blob/master/smoothShades4.png)
