@@ -4,11 +4,9 @@ Smooth Shades is a responsive React app that facilitates the creation, managemen
 
 ### 🕹️ Demo
 
-![Palettes demo](https://user-images.githubusercontent.com/30192766/122650194-63c76700-d0e6-11eb-9b05-8d075678e9fc.mp4)
+[Smooth Shades](https://smooth-shades.vercel.app/)
 
 ### 💻 How to use
-
-Palettes is published on Github Pages at the following [link](https://smooth-shades.herokuapp.com).
 
 If you wish to run Palettes locally instead follow these steps:
 1. Clone the project: `git clone https://github.com/varunswarup/smooth-shades.git`
